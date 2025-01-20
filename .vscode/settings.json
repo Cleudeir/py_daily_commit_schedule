@@ -1,5 +1,8 @@
 {
     "cSpell.enabledFileTypes": {
         "plaintext": false
-    }
+    },
+    "cSpell.words": [
+        "pycache"
+    ]
 }
