@@ -7,7 +7,7 @@ import json
 
 def getCommitSchedule():
     # Read the HTML content from the "index.html" file
-    with open("index.html", "r", encoding="utf-8") as file:
+    with open("src/input/index.html", "r", encoding="utf-8") as file:
         html = file.read()
 
     # Regular expression to extract necessary data
@@ -58,7 +58,7 @@ def getCommitSchedule():
     grouped_commits = dict(grouped_commits)
 
     # Save grouped commits to a JSON file
-    with open("output/grouped_commits.json", "w", encoding="utf-8") as json_file:
+    with open("src/output/grouped_commits.json", "w", encoding="utf-8") as json_file:
         json.dump(grouped_commits, json_file, indent=4, ensure_ascii=False)
 
     print(f"Grouped commits by date have been saved to 'grouped_commits.json'")

@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 def getReport():
     # Load the grouped commits from the JSON file
-    with open("output/grouped_commits.json", "r", encoding="utf-8") as json_file:
+    with open("src/output/grouped_commits.json", "r", encoding="utf-8") as json_file:
         grouped_commits = json.load(json_file)
 
     # Define the work schedule
@@ -71,7 +71,7 @@ def getReport():
 
     # Save the report to a file
     report_content = "\n".join(report_lines)
-    with open("output/daily_commit_schedule.txt", "w", encoding="utf-8") as report_file:
+    with open("src/output/daily_commit_schedule.txt", "w", encoding="utf-8") as report_file:
         report_file.write(report_content)
 
     print("Daily commit schedule has been saved to 'daily_commit_schedule.txt'")

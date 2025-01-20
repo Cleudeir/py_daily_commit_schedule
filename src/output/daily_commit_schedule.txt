@@ -1,0 +1,170 @@
+Date: 20/01/2025
+    sugar-friends: ** - 18:22 : "Publicação Android"
+
+Date: 16/01/2025
+    iva: ** - 00:22 : "Feat: Editar situação do imóvel"
+    iva: 00:22 - 00:25 : "Feat: editar situação"
+    iva: 00:25 - 12:45 : "Fix: api apontamento"
+    iva: 12:45 - 13:38 : "Versão Android"
+    iva: 14:59 - 19:24 : "Fix: dark mode"
+    uau: 13:38 - 14:06 : "Versão IOS"
+    uau: 14:06 - 14:46 : "Versionamento baseUrl"
+    uau: 14:46 - 14:59 : "Versão Android"
+
+Date: 15/01/2025
+    iva: ** - 13:51 : "Feat: Visualizar perfil"
+    iva: 13:51 - 15:48 : "Feat: Perfil"
+    iva: 15:48 - 17:35 : "Feat: Ver Perfil Corretor"
+
+Date: 14/01/2025
+    iva: ** - 18:13 : "Feat: adicionado zoom image, mudado picker para normalização
+                                                            com IO..."
+    uau: 18:13 - 20:08 : "Fix erro loading"
+
+Date: 13/01/2025
+    iva: ** - 14:59 : "Fix: oferta 3 digitos"
+    iva: 14:59 - 14:59 : "Fix: oferta 3 digitos"
+    iva: 14:59 - 17:38 : "Versão"
+    iva: 17:38 - 17:38 : "Versão"
+    sugar-friends: 17:38 - 20:57 : "Merge branch 'alteracoes-alejandro' into 'main'"
+    sugar-friends: 20:57 - 20:57 : "Merge branch 'alteracoes-alejandro' into 'main'"
+    sugar-friends: 20:57 - 20:58 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 20:58 - 20:58 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 20:58 - 20:59 : "Merge branch 'main' into 'alteracoes-alejandro'"
+    sugar-friends: 20:59 - 20:59 : "Merge branch 'main' into 'alteracoes-alejandro'"
+    sugar-friends: 20:59 - 21:10 : "Merge branch 'alteracoes-alejandro' into 'main'"
+    sugar-friends: 21:10 - 21:10 : "Merge branch 'cleudeir' into 'main'"
+
+Date: 09/01/2025
+    sugar-friends: ** - 20:50 : "Merge branch 'alteracoes-alejandro' into 'main'"
+    sugar-friends: 20:50 - 20:50 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 20:50 - 20:50 : "Merge branch 'cleudeir' into 'main'"
+    iva: 20:50 - 20:50 : "Feat: Adiciona Botão de excluir conta"
+
+Date: 08/01/2025
+    sugar-friends: ** - 12:38 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 12:38 - 15:05 : "Merge branch 'alteracoes-alejandro' into 'main'"
+    sugar-friends: 15:05 - 15:06 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 15:06 - 16:16 : "Merge branch 'alteracoes-alejandro' into 'main'"
+    sugar-friends: 16:16 - 17:41 : "Feat: focus request chat"
+    sugar-friends: 17:41 - 17:46 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 17:46 - 17:47 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 17:47 - 17:48 : "fix: bug chat"
+    sugar-friends: 17:48 - 17:49 : "fix: bug chat"
+    sugar-friends: 17:49 - 17:49 : "Merge branch 'cleudeir' into 'main'"
+
+Date: 07/01/2025
+    sugar-friends: ** - 01:42 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 01:42 - 01:42 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 01:42 - 01:43 : "Merge branch 'main' into 'alteracoes_alejandro'"
+    sugar-friends: 01:43 - 16:47 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 16:47 - 17:59 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 17:59 - 19:11 : "Merge branch 'alteracoes-alejandro' into 'main'"
+    sugar-friends: 19:11 - 21:37 : "Feat: chat pagamento status"
+
+Date: 06/01/2025
+    uau: ** - 11:53 : "Fix: telefone"
+    sugar-friends: 11:53 - 16:20 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 16:20 - 20:55 : "Merge branch 'alteracoes_alejandro' into 'main'"
+
+Date: 03/01/2025
+    iva: ** - 12:27 : "Ios version"
+    sugar-friends: 12:27 - 13:18 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 18:03 - 18:03 : "Merge branch 'cleudeir' into 'main'"
+    uau: 13:18 - 18:03 : "Fix: calendário IOS"
+    uau: 18:03 - 18:42 : "Fix ios calendar"
+    uau: 18:42 - 20:15 : "Feat: Permissao camera"
+    uau: 20:15 - 20:34 : "Android versão"
+    uau: 20:34 - 20:39 : "Publicação Android"
+
+Date: 02/01/2025
+    sugar-friends: ** - 13:28 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 13:28 - 13:28 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    iva: 13:28 - 18:23 : "Fix: bug solicitar parceria"
+
+Date: 31/12/2024
+    sugar-friends: ** - 02:02 : "Merge branch 'cleudeir' into 'main'"
+
+Date: 30/12/2024
+    sugar-friends: ** - 11:01 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 11:01 - 12:35 : "Merge branch 'alteracoes_alejandro' into 'main'"
+
+Date: 20/12/2024
+    uau: ** - 13:21 : "Feat: Versão"
+    sugar-friends: 13:21 - 14:16 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 14:16 - 15:50 : "Merge branch 'cleudeir' into 'main'"
+    sugar-friends: 15:50 - 15:50 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 19:21 - 20:53 : "chat agendamento virtual"
+    iva: 15:50 - 19:21 : "Fix: texto"
+
+Date: 19/12/2024
+    iva: ** - 13:26 : "Feat: Bug up images"
+    uau: 13:26 - 14:37 : "Feat: Fix valor serviço exibido"
+    uau: 14:37 - 16:20 : "Feat: Android versionamento"
+    uau: 16:20 - 17:58 : "Feat: Suport WhatsApp"
+    uau: 17:58 - 18:15 : "Feat: Ajuste telefone suporte"
+    sugar-friends: 16:20 - 16:20 : "Merge branch 'alteracoes_alejandro' into 'main'"
+
+Date: 18/12/2024
+    sugar-friends: ** - 18:13 : "Merge branch 'cleudeir' into 'main'"
+    iva: 18:13 - 18:57 : "Feat: keybordAvoid"
+
+Date: 17/12/2024
+    cbtc: ** - 13:09 : "ajustes finais informaoes card"
+    sugar-friends: 13:09 - 13:55 : "Feat: Agendamento"
+    sugar-friends: 13:55 - 16:03 : "Merge branch 'pagamento' into 'main'"
+    sugar-friends: 16:03 - 16:06 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 16:06 - 17:50 : "Merge branch 'pagamento' into 'main'"
+    sugar-friends: 17:50 - 19:09 : "Feat: Encontro"
+
+Date: 16/12/2024
+    uau: ** - 14:24 : "Feat: Teste push"
+    uau: 14:24 - 18:37 : "Feat: Teste push"
+    uau: 18:37 - 18:44 : "Feat: Teste pusha"
+    uau: 18:44 - 18:59 : "Feat: Teste Push"
+    sugar-friends: 18:59 - 21:07 : "Merge branch 'alteracoes_alejandro' into 'main'"
+
+Date: 13/12/2024
+    uau: ** - 15:57 : "Fix valor mudança"
+
+Date: 12/12/2024
+    uau: ** - 13:30 : "ios push"
+    uau: 13:30 - 18:11 : "Ios app name"
+    uau: 18:11 - 19:09 : "Fix push iOS"
+    uau: 19:09 - 21:19 : "safe area"
+    uau: 21:19 - 22:43 : "Fix safe area"
+
+Date: 11/12/2024
+    cbtc: ** - 12:42 : "ajuste exibicao de video IOS"
+    cbtc: 12:43 - 19:47 : "configuracao cache podfile"
+    sugar-friends: 12:42 - 12:43 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 19:47 - 19:47 : "Merge branch 'pagamento' into 'main'"
+
+Date: 10/12/2024
+    cbtc: ** - 15:13 : "app no ios"
+    amazonhouse: 15:13 - 16:00 : "Feat: Ofertas"
+    amazonhouse: 16:00 - 16:27 : "Feat: Versão Android"
+    amazonhouse: 16:27 - 17:30 : "Feat: Api teste"
+
+Date: 09/12/2024
+    uau: ** - 12:24 : "Feat: Versão Android"
+    uau: 12:24 - 13:12 : "Fix: Permissão notificação"
+    uau: 13:12 - 13:13 : "Fix: Permissão notificação"
+    sugar-friends: 12:24 - 12:24 : "Merge branch 'pagamento' into 'main'"
+    sugar-friends: 12:24 - 12:24 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    amazonhouse: 13:13 - 20:57 : "Feat: Ofertas"
+
+Date: 05/12/2024
+    uau: ** - 12:26 : "Feat: Analise de erro"
+    uau: 15:45 - 20:07 : "Fix: Data"
+    sugar-friends: 12:26 - 12:27 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 12:27 - 15:45 : "Merge branch 'pagamento' into 'main'"
+
+Date: 04/12/2024
+    sugar-friends: ** - 16:07 : "Merge branch 'pagamento' into 'main'"
+    sugar-friends: 16:07 - 16:16 : "Merge branch 'pagamento' into 'main'"
+    sugar-friends: 16:16 - 16:17 : "Merge branch 'main' into 'alteracoes_alejandro'"
+    sugar-friends: 16:17 - 18:06 : "Merge branch 'alteracoes_alejandro' into 'main'"
+    sugar-friends: 18:06 - 18:06 : "Merge branch 'pagamento' into 'main'"
+    uau: 18:06 - 18:27 : "Feat: Analise de erro"
+    uau: 18:27 - 21:26 : "Feat: Analise de error"
